@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - ARChromeActivity (1.0.2)
+  - KINWebBrowser (1.2.5):
+    - ARChromeActivity (= 1.0.2)
+    - TUSafariActivity (= 1.0.2)
+  - Masonry (1.0.1)
+  - Reachability (3.2)
+  - Royalcms (1.0.0)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - Toast (2.4)
+  - TUSafariActivity (1.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - KINWebBrowser (~> 1.2.5)
+  - Masonry
+  - Reachability (= 3.2)
+  - Royalcms (from `https://raw.githubusercontent.com/royalwang/royalcms-framework/master/Royalcms.podspec`)
+  - SDWebImage (~> 3.8.1)
+  - Toast (~> 2.4)
+
+EXTERNAL SOURCES:
+  Royalcms:
+    :podspec: https://raw.githubusercontent.com/royalwang/royalcms-framework/master/Royalcms.podspec
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  ARChromeActivity: 6488aedc8dd0624b103ea8caf6218e52692aaf77
+  KINWebBrowser: 773e75882717d735cc37772cf71d5eb2b28554fe
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Royalcms: cc1e4346e95050203892a2b8ff5c4eb0155f7ce0
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  Toast: 0773b8fc0e97352ca6054517bec7ebdd4110029d
+  TUSafariActivity: 32e3e5dc9123e5533a42d41e1c3246d12911a4a2
+
+PODFILE CHECKSUM: d703922a2ccf983cb21157945d5c86094d69eb84
+
+COCOAPODS: 1.0.1

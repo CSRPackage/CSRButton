@@ -1,0 +1,1 @@
+../../../../Royalcms/Framework/Royalcms.framework/Versions/A/Headers/Royalcms.h
